@@ -1,0 +1,4 @@
+-- Happy birthday using tindal cycles and super collider "superpiano" synth. 
+
+setcps (20/60/4) -- sets the bpm
+d1 $ n ( "[c*2] [d c] f e [c*2] [d c] g  f [c c] [c6 a] f e d [c6 c6] a f g f") # s "superpiano"
